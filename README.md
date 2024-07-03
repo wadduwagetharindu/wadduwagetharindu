@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **wadduwagetharindu@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -25,6 +25,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buy me a coffee wadduwagetharindu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee wadduwagetharindu" /></a></p><br><br>
+<br>
+<hr>
+<h1>Statistic bar:</h1>
 
 [![Tharindu's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
 
