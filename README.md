@@ -7,7 +7,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Tharindu+Dilshan+%F0%9F%91%8B;Software+Engineer+Student;Problem+Solver" alt="Headline" />
     </div></div>
 <h1 align="center">Hi 👋, I'm Tharindu Dilshan</h1>
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
+<h3 align="center">A passionate undergraduate software engineer from Srilanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wadduwagetharindu&label=Profile%20views&color=0e75b6&style=flat" alt="wadduwagetharindu" /> </p>
 
