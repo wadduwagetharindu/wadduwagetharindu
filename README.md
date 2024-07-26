@@ -11,7 +11,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wadduwagetharindu&label=Profile%20views&color=0e75b6&style=flat" alt="wadduwagetharindu" /> </p>
 
-- 🌱 I’m currently learning **Reant**
+- 🌱 I’m currently learning **React**
 - 🧑‍🎓 I'm undergraduate at NSBM
 
 - 📫 How to reach me **wadduwagetharindu@gmail.com**
